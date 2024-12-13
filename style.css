@@ -84,7 +84,7 @@
 /* home section */
 .home{
     display: flex;
-    margin-top: 50px;
+    margin-top: 0px;
     text-align: center;
     flex-wrap: wrap;
     position: relative;
